@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 201910-30-01.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.06808in" height="1.83186in"
+		viewBox="0 0 148.902 131.894" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-4);stroke:#7f7f7f;stroke-width:0.75}
+		.st2 {fill:#3c63ac;font-family:Calibri;font-size:1.00001em}
+		.st3 {fill:#3d64ac;font-family:Calibri;font-size:1.00001em}
+		.st4 {marker-end:url(#mrkr4-15);stroke:#ffc000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st5 {fill:#ffc000;fill-opacity:1;stroke:#ffc000;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st6 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st7 {fill:#000000;font-family:黑体;font-size:0.499992em}
+		.st8 {font-family:Calibri;font-size:1em}
+		.st9 {font-size:1em}
+		.st10 {marker-end:url(#mrkr4-38);stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st11 {fill:#00b050;fill-opacity:1;stroke:#00b050;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-4" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#e8ebf4" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#f4f5f9" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-15" class="st5" v:arrowType="4" v:arrowSize="2" v:setback="4.24" refX="-4.24" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.12,-2.12) "/>
+		</marker>
+		<marker id="mrkr4-38" class="st11" v:arrowType="4" v:arrowSize="2" v:setback="4.24" refX="-4.24" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.12,-2.12) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.75,-101.38)">
+			<title>矩形</title>
+			<desc>Kubernetes Control Plane</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.7008" cy="117.012" width="147.41" height="29.7638"/>
+			<rect x="0" y="102.13" width="147.402" height="29.7638" class="st1"/>
+			<text x="11.36" y="120.61" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Kubernetes Control Plane</text>		</g>
+		<g id="shape2-6" v:mID="2" v:groupContext="shape" transform="translate(0.75,-0.75)">
+			<title>矩形.2</title>
+			<desc>Node</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.7008" cy="117.012" width="147.41" height="29.7638"/>
+			<rect x="0" y="102.13" width="147.402" height="29.7638" class="st1"/>
+			<text x="60.53" y="120.61" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Node</text>		</g>
+		<g id="shape3-10" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(124.057,-101.38)">
+			<title>动态连接线</title>
+			<desc>验证 token 用户 以信任 Node</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="167.327" width="50.12" height="23.9782" transform="rotate(-90)"/>
+			<path d="M7.09 131.89 L7.09 193.22" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="-187.703" y="-0.900422" width="40.7516" height="15.9744" transform="rotate(-90)"
+					class="st6"/>
+			<text x="-187.7" y="5.09" transform="rotate(-90)" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>验证<tspan
+						class="st8"> </tspan><tspan class="st8">token </tspan>用户<v:newlineChar/><tspan x="-183.59" dy="1.331em"
+						class="st9">以信任</tspan><tspan class="st8"> </tspan><tspan class="st8">Node</tspan></text>		</g>
+		<g id="shape4-23" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(90.0413,-30.5138)">
+			<title>动态连接线.4</title>
+			<desc>以 token 用户 身份访问</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="96.4607" width="44.12" height="23.9782" transform="rotate(-90)"/>
+			<path d="M7.09 131.89 L7.09 70.57" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="-113.836" y="-0.900422" width="34.7517" height="15.9744" transform="rotate(-90)"
+					class="st6"/>
+			<text x="-113.84" y="5.09" transform="rotate(-90)" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>以<tspan
+						class="st8"> </tspan><tspan class="st8">token </tspan>用户<v:newlineChar/><tspan x="-108.46" dy="1.331em"
+						class="st9">身份访问</tspan></text>		</g>
+		<g id="shape7-33" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(10.6713,-100.813)">
+			<title>动态连接线.7</title>
+			<desc>读取 cluster-info</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="167.327" width="38.58" height="23.1908" transform="rotate(-90)"/>
+			<path d="M7.09 131.89 L7.09 193.22" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-181.935" y="-0.506727" width="29.2173" height="15.1872" transform="rotate(-90)"
+					class="st6"/>
+			<text x="-173.33" y="5.48" transform="rotate(-90)" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>读取<v:newlineChar/><tspan
+						x="-181.94" dy="1.233em" class="st8"> </tspan><tspan class="st8">cluster</tspan><tspan class="st8">-</tspan><tspan
+						class="st8">info</tspan></text>		</g>
+		<g id="shape8-45" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(44.687,-30.5138)">
+			<title>动态连接线.8</title>
+			<desc>用 token 验证签名 用 hash 码验证 CA 以信任控制面</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.37007" cy="99.0118" width="56.12" height="31.9654" transform="rotate(-90)"/>
+			<path d="M7.09 131.89 L7.09 70.57" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-122.387" y="-4.61061" width="46.7515" height="23.9617" transform="rotate(-90)"
+					class="st6"/>
+			<text x="-122.39" y="1.38" transform="rotate(-90)" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>用<tspan
+						class="st8"> </tspan><tspan class="st8">token </tspan>验证签名<v:newlineChar/><tspan x="-122.14" dy="1.331em"
+						class="st9">用</tspan><tspan class="st8"> </tspan><tspan class="st8">hash </tspan>码验证<tspan class="st8"> </tspan><tspan
+						class="st8">CA<v:newlineChar/></tspan><tspan x="-117.01" dy="1.331em" class="st9">以信任控制面</tspan></text>		</g>
+	</g>
+</svg>
